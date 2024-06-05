@@ -1,5 +1,5 @@
 # js-fernanda
-Meu nome é nome sobrenome
+Meu nome é nom sobrenome
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
